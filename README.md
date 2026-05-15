@@ -1,5 +1,5 @@
 
-# 🎬 CineVerse AI
+# 🎬 Shukla's Movie Recommender AI
 
 ### *Where Artificial Intelligence meets Cinema* 🌌
 
@@ -90,7 +90,6 @@ Fetch:
 ## 🏠 Home Page
 
 <p align="center">
-<img src="screenshots/home.png" width="900">
 </p>
 
 ---
@@ -98,7 +97,6 @@ Fetch:
 ## 🎬 Recommendation Section
 
 <p align="center">
-<img src=""C:\Users\shiva\OneDrive\Pictures\Screenshots\Screenshot 2026-05-15 154327.png"" width="900">
 </p>
 
 ---
@@ -106,7 +104,6 @@ Fetch:
 ## 🎭 Mood Based Browsing
 
 <p align="center">
-<img src="screenshots/mood.png" width="900">
 </p>
 
 ---
@@ -226,38 +223,7 @@ Replace with your actual TMDB API key.
 
 # 📥 Large File Download
 
-GitHub may block `.pkl` files larger than 25MB.
-
-Download model files manually:
-
-```text id="v3x7m9"
-Paste your Google Drive / Hugging Face links here
-```
-
-Example:
-
-```md id="n4q8y1"
-- [movies.pkl](YOUR_LINK)
-- [similarity.pkl](YOUR_LINK)
-```
-
----
-
-# 💾 Git LFS Support
-
-Install Git LFS:
-
-[Git LFS](https://git-lfs.com/?utm_source=chatgpt.com)
-
----
-
-## Track Large Files
-
-```bash id="m5z2q8"
-git lfs track "*.pkl"
-```
-
----
+https://drive.google.com/drive/folders/1IiXsLk6UPyFX_TpUAgB2L5sP4mkBvwmf?usp=drive_link
 
 # 🌟 Future Enhancements
 
@@ -296,7 +262,7 @@ requests
 
 # 👨‍💻 Author
 
-# Shukla Ji 🚀
+# Shivam Kumar Shukla (Shukla Ji) 
 
 ### B.Tech AI Student
 
